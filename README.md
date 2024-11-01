@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alfath Rajif
 
 ### 🚀 About Me
-I'm a software engineer with focus on building business application, such as **financial tracking** to **inventory** and **human resource management**.
+Software engineer with focus on building business application, such as **financial tracking** to **inventory** and **human resource management**.
 
 I started my coding journey back in **2016** in vocational high school, and since then, I’ve been growing my skills in web development. Currently, I’m deep into building robust applications with **Next.js** for the frontend and **NestJS** for the backend. 
 
