@@ -1,50 +1,50 @@
-# 👋 Hi, I'm Alfath Rajif
+# Hi, I'm Alfath Rajif👋
 
-I’m a web developer with two years of training and two and a half years of experience as a full-stack developer. I’m always focused on building applications and have a goal of starting my own business.
+Web developer with two years of training and two and a half years of experience as a full-stack developer.
 
-I’ve been creating websites with Next.js for two years and working with NestJS for one year.
+I’m always focused on building applications and have a goal of starting my own business.
 
-**Web Developer**
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components"
-    src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier"
-    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="TailwindCSS"
-    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
-</p>
+Creating websites with Next.js for two years and working with NestJS for one year.
 
-**Backend Developer**
+## Tech Stack 💻
 
-<p>
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB"
-    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express"
-    src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
-</p>
+### Frontend
 
-**DevOps**
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) [![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/) [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)](https://prettier.io/) [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions"
-    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Railway" src="https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white" />
-</p>
+### Backend
 
-**Environment**
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/) [![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 
-<p>
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="nvim" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=ffffff" />
-</p>
+### DevOps
+
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions) [![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://railway.app/)
+
+### Environment
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=00C4FF)](https://www.jetbrains.com/webstorm/)
+
+## 📝 Current Projects
+
+- **Personal Branding Website**: Showcasing my projects, skills, and experiences.
+- **Learning Management System**: A web-based module sharing platform for education.
+- **Financial Tracking System**: A custom app to track income and expenses with detailed insights.
+- **Money Management App**: Built with Next.js and NestJS, focusing on personal finance management (not yet real-time updates).
+
+## 💡 Interests
+
+- **Web3 Development**: I’m diving into web3 to transition my web2 skills and stay at the forefront of the latest trends.
+- **AI and Machine Learning**: I explore AI and ML concepts in my free time to learn how these can be applied to web applications.
+
+## 🎓 Learning Goals
+
+1. Expanding my skills in **financial application development**.
+2. Delving deeper into **AI** and **ML** applications in web development.
+
+### 📫 Connect with Me
+
+- LinkedIn: [Alfath Rajif](https://www.linkedin.com/in/alfathrajif/)
+- Twitter: [@alfathrajif](https://twitter.com/alfathrajif)
+- Personal Website: [alfathrajif.com](https://alfathrajif.online)
+
+Thanks for visiting my profile! 😊
