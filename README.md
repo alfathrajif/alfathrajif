@@ -1,29 +1,50 @@
 # 👋 Hi, I'm Alfath Rajif
 
-### 🚀 About Me
-Software engineer with focus on building business application, such as **financial tracking** to **inventory** and **human resource management**.
+I’m a web developer with two years of training and two and a half years of experience as a full-stack developer. I’m always focused on building applications and have a goal of starting my own business.
 
-I started learn coding in **2016** in vocational high school. Currently, I’m deep into building robust applications with **Next.js** for the frontend and **NestJS** for the backend. 
+I’ve been creating websites with Next.js for two years and working with NestJS for one year.
 
----
+**Web Developer**
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components"
+    src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier"
+    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="TailwindCSS"
+    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
-### 🧰 Tech Stack
+**Backend Developer**
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB"
+    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Express"
+    src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
+</p>
 
-<a href="https://nextjs.org">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" height="20">
-</a>
+**DevOps**
 
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions"
+    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Railway" src="https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white" />
+</p>
 
+**Environment**
 
----
-
-
-
-
-
-
-
-
-
+<p>
+  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="nvim" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=ffffff" />
+</p>
