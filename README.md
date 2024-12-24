@@ -26,10 +26,9 @@ Creating websites with Next.js for two years and working with NestJS for one yea
 
 ## 📝 Current Projects
 
-- **Personal Branding Website**: Showcasing my projects, skills, and experiences.
+- **My Personal Website**: Showcasing my projects, skills, and experiences.
 - **Learning Management System**: A web-based module sharing platform for education.
-- **Financial Tracking System**: A custom app to track income and expenses with detailed insights.
-- **Money Management App**: Built with Next.js and NestJS, focusing on personal finance management (not yet real-time updates).
+- **Money Management App**: Built with Next.js and NestJS, focusing on personal finance management.
 
 ## 💡 Interests
 
