@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://alfathrajif.github.io/alfathrajif",
+  "homepage": "https://alfathrajif.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
